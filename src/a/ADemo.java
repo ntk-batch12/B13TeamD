@@ -24,6 +24,9 @@ public class ADemo {
 		
 		System.out.println(city);
 	}
+	public void multiply(int z,int x) {
+		System.out.println(z*x);
+	}
 	
 	public void regularMethod() {
 		System.out.println("Just a Method");
