@@ -12,6 +12,12 @@ public class ADemo {
 		int x =10;
 		int result=y-x;
 		System.out.println(result);
+		
+		int n = 32;
+		int d = 41;
+		System.out.println(n+d);
+
 	}
+	
 
 }
