@@ -30,5 +30,9 @@ public class ADemo {
 		
 		
 	}
-
+	
+	public void info (int count ) {
+		
+		System.out.println(count);
+	}
 }
