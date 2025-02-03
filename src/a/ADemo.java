@@ -4,7 +4,6 @@ public class ADemo {
 	
 	public static void main(String[] args) {
 		System.out.println("ADemo: TeamD");
-		System.out.println("Ihope This Time Will WORK");
 		
 		int a = 27;
 		int b = 57;
@@ -25,18 +24,11 @@ public class ADemo {
 		
 		System.out.println(city);
 	}
-	public void multiply(int z,int x) {
-		System.out.println(z*x);
-	}
 	
 	public void regularMethod() {
 		System.out.println("Just a Method");
 		
-		
+	// comment just practice	
 	}
-	
-	public void info (int count ) {
-		
-		System.out.println(count);
-	}
+
 }
