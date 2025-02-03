@@ -19,5 +19,10 @@ public class ADemo {
 
 	}
 	
+	
+	public void info (String city ) {
+		
+		System.out.println(city);
+	}
 
 }
