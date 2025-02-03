@@ -27,6 +27,8 @@ public class ADemo {
 	
 	public void regularMethod() {
 		System.out.println("Just a Method");
+		
+		
 	}
 
 }
