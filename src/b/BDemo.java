@@ -13,6 +13,11 @@ public class BDemo {
 		String name = "TeamDIsTheBest";
 		System.out.println(name);
 		}
+
+	public void methodA() {
+		System.out.println("Print this");
+	}
+
 	
 	
 	public void newMethod() {

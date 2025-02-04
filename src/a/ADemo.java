@@ -33,6 +33,10 @@ public class ADemo {
 		
 		System.out.println(city);
 	}
+
+	public void methodB() {
+		System.out.println("Print this");
+
 	
 
 	public void regularMethod() {
@@ -52,6 +56,7 @@ public class ADemo {
 	        int number = 10; // semehar
 	        System.out.println("Number: " + number);
 	    }
+
 	}
 
 }
