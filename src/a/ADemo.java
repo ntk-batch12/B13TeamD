@@ -24,5 +24,8 @@ public class ADemo {
 		
 		System.out.println(city);
 	}
+	public void methodB() {
+		System.out.println("Print this");
+	}
 
 }
