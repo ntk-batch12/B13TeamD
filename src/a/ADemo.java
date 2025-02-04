@@ -16,6 +16,15 @@ public class ADemo {
 		int n = 32;
 		int d = 41;
 		System.out.println(n+d);
+		
+		int r= 10;
+		int z = 20;
+		if(r>z){
+			System.out.println("Greater");
+		
+		}else {
+			System.out.println("Less");
+		}
 
 	}
 	
