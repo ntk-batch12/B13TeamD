@@ -19,7 +19,7 @@ public class ADemo {
 
 	}
 	
-	
+	//its just a comment
 	public void info (String city ) {
 		
 		System.out.println(city);
