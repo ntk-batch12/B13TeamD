@@ -13,5 +13,11 @@ public class BDemo {
 		String name = "TeamDIsTheBest";
 		System.out.println(name);
 		}
+	
+	
+	public void newMethod() {
+		String name = "Java is fun";
+		System.out.println(name);
+	}
 
 }
