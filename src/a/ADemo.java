@@ -16,6 +16,15 @@ public class ADemo {
 		int n = 32;
 		int d = 41;
 		System.out.println(n+d);
+		
+		int r= 10;
+		int z = 20;
+		if(r>z){
+			System.out.println("Greater");
+		
+		}else {
+			System.out.println("Less");
+		}
 
 	}
 	
@@ -25,6 +34,7 @@ public class ADemo {
 		System.out.println(city);
 	}
 	
+
 	public void regularMethod() {
 		System.out.println("Just a Method");
 		
@@ -37,4 +47,11 @@ public class ADemo {
 	}
 	
 	
+
+	    public static void hope(String[] args) {
+	        int number = 10; // semehar
+	        System.out.println("Number: " + number);
+	    }
+	}
+
 }
