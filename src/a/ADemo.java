@@ -38,6 +38,10 @@ public class ADemo {
 		System.out.println("Print this");
 
 	}
+	
+	public void createConflict() {
+		System.out.println("I created a conflict");
+	}
 
 	public void regularMethod() {
 		System.out.println("Just a Method");
