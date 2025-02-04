@@ -24,5 +24,17 @@ public class ADemo {
 		
 		System.out.println(city);
 	}
-
+	
+	public void regularMethod() {
+		System.out.println("Just a Method");
+		
+		
+	}
+	
+	public void info (int count ) {
+		//This is my comment
+		System.out.println(count);
+	}
+	
+	
 }
