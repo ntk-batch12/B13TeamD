@@ -24,5 +24,11 @@ public class ADemo {
 		
 		System.out.println(city);
 	}
+	
+	    public static void hope(String[] args) {
+	        int number = 10; // semehar
+	        System.out.println("Number: " + number);
+	    }
+	}
 
 }
