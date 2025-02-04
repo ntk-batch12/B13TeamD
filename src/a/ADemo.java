@@ -37,11 +37,10 @@ public class ADemo {
 	public void methodB() {
 		System.out.println("Print this");
 
-	
+	}
 
 	public void regularMethod() {
 		System.out.println("Just a Method");
-		
 		
 	}
 	
@@ -59,4 +58,4 @@ public class ADemo {
 
 	}
 
-}
+
