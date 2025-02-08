@@ -13,6 +13,11 @@ public class BDemo {
 		String name = "TeamDIsTheBest";
 		System.out.println(name);
 		}
+
+	public void methodA() {
+		System.out.println("Print this");
+	}
+
 	
 	
 	public void newMethod() {
@@ -22,6 +27,11 @@ public class BDemo {
 	
 	public void newMethod2() {
 		String name = "SQL Too";
+		System.out.println(name);
+	}
+
+	public void newMethod2() {
+		String name = "GitHub Too";
 		System.out.println(name);
 	}
 
