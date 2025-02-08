@@ -24,7 +24,9 @@ public class ADemo {
 		int n= 33;
 		int d= 44;
 		System.out.println(n+d);
-
+                int n= 4;
+		int d= 2;
+		System.out.println(n+d);
 	}
 	
 	
