@@ -13,6 +13,10 @@ public class ADemo {
 		int b=10;
 
 		
+		int y = 10;
+		int x =10;
+		int result=y-x;
+		System.out.println(result);
 		int a = 27;
 		int b = 57;
 		System.out.println(a+b);
