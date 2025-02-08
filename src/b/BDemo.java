@@ -14,4 +14,20 @@ public class BDemo {
 		System.out.println(name);
 		}
 
+	public void methodA() {
+		System.out.println("Print this");
+	}
+
+	
+	
+	public void newMethod() {
+		String name = "Java is fun";
+		System.out.println(name);
+	}
+
+	public void newMethod2() {
+		String name = "GitHub Too";
+		System.out.println(name);
+	}
+
 }
