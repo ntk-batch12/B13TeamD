@@ -9,7 +9,6 @@ public class ADemo {
 		int d = 1;
 		System.out.println(n+d);
 		System.out.println("TeamD");
-		int d=30;
 		int b=10;
 
 		
@@ -18,15 +17,8 @@ public class ADemo {
 		int result=y-x;
 		System.out.println(result);
 		int a = 27;
-		int b = 57;
 		System.out.println(a+b);
-		int y = 10;
-		int x =10;
-		int result=y-x;
 		System.out.println(result);
-		
-		int n = 32;
-		int d = 41;
 		System.out.println(n+d);
 		
 
@@ -53,6 +45,7 @@ public class ADemo {
 
 	public void methodB() {
 		System.out.println("Print this");
+	}
 
 	
 
