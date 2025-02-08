@@ -16,6 +16,9 @@ public class ADemo {
 		int n = 32;
 		int d = 41;
 		System.out.println(n+d);
+		
+		String firstName="Noor";
+		double price=44.5;
 
 	}
 	
