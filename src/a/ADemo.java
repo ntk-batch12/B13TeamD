@@ -24,6 +24,10 @@ public class ADemo {
 
 		int n = 77;
 		int d = 36;
+		
+		//this is a new comment 
+		int n= 44;
+		int d = 11;
 		System.out.println(n+d);
 	}
 	
