@@ -23,6 +23,9 @@ public class BDemo {
 	public void newMethod() {
 		String name = "Java is fun";
 		System.out.println(name);
+
+		int sum = 10;
+		int result = 20;
 	}
 
 }
