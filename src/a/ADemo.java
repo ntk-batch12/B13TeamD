@@ -39,6 +39,9 @@ public class ADemo {
 		int n = 66;
 		int d = 55;
 		System.out.println(n+d);
+
+		int n = 111;
+		int d = 222;
 		
 		System.out.println(city);
 	}
