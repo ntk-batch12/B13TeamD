@@ -17,6 +17,9 @@ public class ADemo {
 		int d = 41;
 		System.out.println(n+d);
 
+		int n = 77;
+		int d = 33;
+		System.out.println(n+d);
 	}
 	
 	
