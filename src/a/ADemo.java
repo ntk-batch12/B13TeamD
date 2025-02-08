@@ -58,6 +58,7 @@ public class ADemo {
 	public void info (int count ) {
 		//This is my comment
 		System.out.println(count);
+		String name = "Gianfranco";
 		int a = 10;
 		int b = 12;
 	}
