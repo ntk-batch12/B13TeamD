@@ -15,7 +15,7 @@ public class BDemo {
 		}
 
 	public void methodA() {
-		System.out.println("Print this");
+		System.out.println("Print this");	
 	}
 
 	
