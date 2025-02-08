@@ -4,6 +4,7 @@ public class ADemo {
 	
 	public static void main(String[] args) {
 		System.out.println("ADemo: TeamD");
+		System.out.println("TeamD");
 		int d=30;
 		int b=10;
 		
