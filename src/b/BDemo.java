@@ -30,9 +30,6 @@ public class BDemo {
 		System.out.println(name);
 	}
 
-	public void newMethod2() {
-		String name = "GitHub Too";
-		System.out.println(name);
-	}
+
 
 }
