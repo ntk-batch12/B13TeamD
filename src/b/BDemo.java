@@ -21,11 +21,14 @@ public class BDemo {
 	
 	
 	public void newMethod() {
-		String name = "Java is fun";
-		System.out.println(name);
+		String nameq = "Java is fun";
+		System.out.println(nameq);
+
 		
 		String grass = "green";
 		String name = "Brett";
+
+
 	}
 
 }
