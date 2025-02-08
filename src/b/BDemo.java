@@ -19,5 +19,10 @@ public class BDemo {
 		String name = "Java is fun";
 		System.out.println(name);
 	}
+	
+	public void newMethod2() {
+		String name = "SQL Too";
+		System.out.println(name);
+	}
 
 }

@@ -21,6 +21,7 @@ public class ADemo {
 		int z = 20;
 		if(r>z){
 			System.out.println("Greater");
+			System.out.println("and better");
 		
 		}else {
 			System.out.println("Less");
@@ -40,4 +41,4 @@ public class ADemo {
 	    }
 	}
 
-}
+
