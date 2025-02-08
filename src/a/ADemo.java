@@ -33,6 +33,10 @@ public class ADemo {
 	
 	
 	public void info (String city ) {
+
+		int n = 66;
+		int d = 55;
+		System.out.println(n+d);
 		
 		System.out.println(city);
 	}
