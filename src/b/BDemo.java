@@ -27,7 +27,7 @@ public class BDemo {
 
 	public void newMethod2() {
 		String name = "GitHub Too";
-		Int k = 100;
+		int k = 100;
 		System.out.println(name);
 	}
 
