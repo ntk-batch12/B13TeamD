@@ -8,6 +8,8 @@ public class BDemo {
 	
 	public void divide(int a, int b) {
 		System.out.println(a/b);
+		a = 600; 
+		b = 1000;
 	}
 	public void getInfo() {
 		String name = "TeamDIsTheBest";
