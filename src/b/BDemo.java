@@ -13,6 +13,10 @@ public class BDemo {
 		String name = "TeamDIsTheBest";
 		System.out.println(name);
 		}
+	public void add() {
+		System.out.println(1+2);
+	}
+	
 
 	public void methodA() {
 		System.out.println("Print this");	
@@ -26,7 +30,12 @@ public class BDemo {
 	}
 	
 	public void newMethod2() {
+
 		String name = "SQL Too";
+
+		String name2 = "GitHub Too";
+		int k = 100;
+
 		System.out.println(name);
 	}
 
